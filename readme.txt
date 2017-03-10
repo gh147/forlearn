@@ -7,3 +7,5 @@ add a new branch dev
 >>>>>>> dev
 
 to merge dev 
+
+master :second modify
