@@ -7,3 +7,4 @@ second modify
 dev:only modify
 merge no--ff
 bug: have fixed a bug
+append for test git stash
