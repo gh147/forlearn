@@ -6,3 +6,4 @@ master :second modify
 second modify
 dev:only modify
 merge no--ff
+append for test git stash
